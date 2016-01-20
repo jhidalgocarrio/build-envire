@@ -9,7 +9,8 @@
 # file in the relevant repository
 # CONFIG_NAME=default-next
 # The URL to the git repository that holds the configuration
-BUILDCONF_REPOSITORY=https://github.com/envire/buildconf.git
+#BUILDCONF_REPOSITORY=https://github.com/envire/buildconf.git
+BUILDCONF_REPOSITORY=https://github.com/rock-core/buildconf.git
 #the branch of the buildconf repository to use (default:master)
 BUILDCONF_BRANCH=master
 
