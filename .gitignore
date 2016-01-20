@@ -1,2 +1,6 @@
 build/
+dev/
+logs/
+autoproj_bootstrap
+rock_build
 *.sw?
