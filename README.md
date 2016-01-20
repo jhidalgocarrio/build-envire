@@ -1,1 +1,1 @@
-# Build scripts for the Envore bootstrap
+# Build scripts for the Envire bootstrap
