@@ -14,9 +14,9 @@ env:
         - BUILD_TYPE=Release
 
 before_install:
-	- sudo apt-get update -qq
-	- sudo apt-get install -qq build-essential
-	- sudo apt-get install -qq ruby
+        - sudo apt-get update -qq
+        - sudo apt-get install -qq build-essential
+        - sudo apt-get install -qq ruby
 script:
   - sh build_in_travis.sh
 
